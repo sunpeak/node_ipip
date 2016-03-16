@@ -1,0 +1,8 @@
+{
+  "name": "node_ipip",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "fs":"0.0.2"
+  }
+}
